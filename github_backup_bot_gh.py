@@ -37,7 +37,7 @@ def require_git():
 
 def backup_repo(url: str, branch: str, out_dir: Path):
     repo_name = url.rstrip("/").split("/")[-1].replace(".git", "")
-    today = dt.datetime.now().strftime("%Y-%m-%d")
+    today = dt.datetime.now().strftime("%m-%d-%y")
     ts = dt.datetime.now().strftime("%H%M%S")
 
     zip_path = out_dir / f"{repo_name}-{branch}-{today}.zip"
