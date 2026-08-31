@@ -1,8 +1,24 @@
 [
-  { "url": "https://github.com/billcye/cymbiote-backend.git", "branch": "master" },
+  {
+    "url": "https://github.com/billcye/cymbiote-backend.git",
+    "branch": "master"
+  },
   { "url": "https://github.com/billcye/cymbiote.git", "branch": "main" },
   { "url": "https://github.com/billcye/cercle-admin.git", "branch": "main" },
-  { "url": "https://github.com/billcye/cercle-admin-backend.git", "branch": "main" },
-  { "url": "https://github.com/billcye/cymbiote-mobile-v77.git", "branch": "ayan" },
-  { "url": "https://github.com/billcye/cymbiote-mobile-v77.git", "branch": "ayan-ios" }
+  {
+    "url": "https://github.com/billcye/cercle-admin-backend.git",
+    "branch": "main"
+  },
+  {
+    "url": "https://github.com/billcye/cymbiote-mobile-v77.git",
+    "branch": "ayan"
+  },
+  {
+    "url": "https://github.com/billcye/cymbiote-mobile-v77.git",
+    "branch": "ayan-ios"
+  },
+  {
+    "url": "https://github.com/billcye/cercle-mobile-app.git",
+    "branch": "main"
+  }
 ]
